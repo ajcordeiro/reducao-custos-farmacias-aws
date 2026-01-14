@@ -41,7 +41,7 @@ A rede SaúdeTotal possui 50 unidades distribuídas pelo estado, enfrentando des
 ## 📎 Anexos
 
 - [Diagrama de Arquitetura AWS](arquitetura/diagrama-aws.png)  
-- [Resumo Executivo ROI (PDF)](calculos/resumo-executivo-roi-atualizado.pdf)  
+- [Resumo Executivo ROI (PDF)](calculos/resumo-executivo-roi.pdf)  
 - [ROI Calculator (Excel)](calculos/)  
 - [Dashboard ROI (Excel)](calculos/)  
 - [TCO Analysis](calculos/tco-analysis.pdf)  

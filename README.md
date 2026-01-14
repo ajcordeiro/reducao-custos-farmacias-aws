@@ -26,7 +26,10 @@ A rede SaúdeTotal possui 50 unidades distribuídas pelo estado, enfrentando des
 
 ## 💰 Resultados
 
-- Redução de custos operacionais estimada em **R$ 1.450.000/ano**  
+- **Economia anual:** R$ 1.590.000  
+- **Redução percentual de custos:** 41,73%  
+- **ROI:** 41,73%  
+- **Payback:** 1,9 meses  
 - Eliminação de licenças e servidores locais  
 - Redução de tempo de processamento de receitas de **10 minutos para 30 segundos**  
 - Otimização de **30% no estoque imobilizado**  
@@ -38,10 +41,13 @@ A rede SaúdeTotal possui 50 unidades distribuídas pelo estado, enfrentando des
 ## 📎 Anexos
 
 - [Diagrama de Arquitetura AWS](arquitetura/diagrama-aws.png)  
-- [ROI Calculator](calculos/roi-calculator.xlsx)  
+- [Resumo Executivo ROI (PDF)](calculos/resumo-executivo-roi-atualizado.pdf)  
+- [ROI Calculator (Excel)](calculos/roi-calculator.xlsx)  
+- [Dashboard ROI Corrigido (Excel)](calculos/dashboard_roi_corrigido.xlsx)  
 - [TCO Analysis](calculos/tco-analysis.pdf)  
 - [Política de Segurança](documentacao/politica-seguranca.md)  
 - [Manual de Operações](documentacao/manual-operacoes.md)  
 
 ---
+
 

@@ -1,0 +1,43 @@
+{
+  "fileLocations": [
+    {
+      "URIs": [
+        "s3://saudetotal-dados/receitas/receitas.csv"
+      ]
+    }
+  ],
+  "globalUploadSettings": {
+    "format": "CSV",
+    "delimiter": ",",
+    "textqualifier": "\"",
+    "containsHeader": "true"
+  },
+  "dataSetName": "ReceitasFarmacia",
+  "physicalTableMap": {
+    "ReceitasFarmacia": {
+      "relationalTable": {
+        "dataSourceArn": "arn:aws:quicksight:us-east-1:123456789012:datasource/RDSFarmacia",
+        "schema": "public",
+        "name": "receitas",
+        "inputColumns": [
+          {
+            "name": "id_receita",
+            "type": "INTEGER"
+          },
+          {
+            "name": "medicamento",
+            "type": "STRING"
+          },
+          {
+            "name": "quantidade",
+            "type": "INTEGER"
+          },
+          {
+            "name": "data_processamento",
+            "type": "DATETIME"
+          }
+        ]
+      }
+    }
+  }
+}

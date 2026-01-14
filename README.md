@@ -36,7 +36,7 @@ A rede SaúdeTotal possui 50 unidades distribuídas pelo estado, enfrentando des
 
 ## 📄 Relatório Completo
 
-👉 [Relatório de Implementação de Serviços AWS](documentacao/relatorio-implementacao.md)
+👉 [Relatório de Implementação de Serviços AWS](documentação/relatório-implementação.md)
 
 ## 📎 Anexos
 
